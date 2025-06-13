@@ -1,5 +1,5 @@
-import "./App.css";
-import AGGrid from "./components/AGGrid";
+import AGGrid from '@/components/AGGrid';
+import './App.css';
 
 function App() {
   return (
